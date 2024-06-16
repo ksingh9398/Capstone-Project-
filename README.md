@@ -16,6 +16,9 @@ over the year from 2001 to 2012.
 * Seaborn
 * Warnings
 
+# MACHINE LEARNING ALGORITHM: 
+K-Mean
+
 # OBSERVATION: 
 * 1) MADHYA PRADESH state has the maximum number of
 RAPE cases come in light from year 2001 to 2012
