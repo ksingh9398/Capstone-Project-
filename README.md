@@ -16,8 +16,7 @@ over the year from 2001 to 2012.
 * Seaborn
 * Warnings
 # Data Sources 
-* https://en.wikipedia.org/wiki/List_of_states_and_union_territori
-es_of_India_by_sex_ratio
+* https://en.wikipedia.org/wiki/List_of_states_and_union_territori_es_of_India_by_sex_ratio
 * http://cyberjournalist.org.in/census/cenindia.html
 * https://www.indiacensus.net/
 
