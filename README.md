@@ -15,11 +15,16 @@ over the year from 2001 to 2012.
 * Matplotlib
 * Seaborn
 * Warnings
+# Data Sources 
+* https://en.wikipedia.org/wiki/List_of_states_and_union_territori
+es_of_India_by_sex_ratio
+* http://cyberjournalist.org.in/census/cenindia.html
+* https://www.indiacensus.net/
 
-# MACHINE LEARNING ALGORITHM: 
+# Machine Learning Algorithm: 
 K-Mean
 
-# OBSERVATION: 
+# Observation: 
 * 1) MADHYA PRADESH state has the maximum number of
 RAPE cases come in light from year 2001 to 2012
 * 2) UTTAR PRADESH state has the maximum number of
